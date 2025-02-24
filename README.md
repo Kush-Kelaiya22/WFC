@@ -25,8 +25,6 @@ This project is an implementation of the Wave Function Collapse algorithm, a con
 
 ## Usage
 
-## Usage
-
 ### On Linux
 
 Run the application with the conditions file:
